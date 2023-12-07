@@ -27,6 +27,7 @@ C:\Users\dudel\anaconda3\envs\unpr_fp_env_pd\Lib\site-packages\skmultilearn\adap
 Specifically, old line 165:
 
 self.knn_ = NearestNeighbors(self.k).fit(X)
+
 should be updated to:
 
 self.knn_ = NearestNeighbors(n_neighbors=self.k).fit(X)
