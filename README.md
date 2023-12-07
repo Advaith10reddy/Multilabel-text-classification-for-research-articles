@@ -16,7 +16,9 @@ pip install pandas numpy scikit-learn nltk scikit-multilearn
 
 
 To prevent the following , update a single line in the skmultilearn package.
-TypeError: __init__() takes 1 positional argument but 2 were given
+
+
+error: TypeError: __init__() takes 1 positional argument but 2 were given
 
 In skmultilearn package
 
