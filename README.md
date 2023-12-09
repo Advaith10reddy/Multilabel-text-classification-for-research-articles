@@ -26,7 +26,7 @@ pip install pandas numpy scikit-learn nltk scikit-multilearn
  error: TypeError: __init__() takes 1 positional argument but 2 were given
 ~~~
 
-## In skmultilearn package
+### In skmultilearn package
 
 
 C:\Users\dudel\anaconda3\envs\unpr_fp_env_pd\Lib\site-packages\skmultilearn\adapt\mlknn.py
